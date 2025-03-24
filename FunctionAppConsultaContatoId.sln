@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppConsultaContatoId", "FunctionAppConsultaContatoId\FunctionAppConsultaContatoId.csproj", "{EB62FB0D-C40D-4F27-A8D1-66569147F576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppConsultaContatoId.Test", "FunctionAppConsultaContatoId.Test\FunctionAppConsultaContatoId.Test.csproj", "{AFC0E1AE-5F40-4704-9852-A1BC46191B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB62FB0D-C40D-4F27-A8D1-66569147F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB62FB0D-C40D-4F27-A8D1-66569147F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB62FB0D-C40D-4F27-A8D1-66569147F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB62FB0D-C40D-4F27-A8D1-66569147F576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC0E1AE-5F40-4704-9852-A1BC46191B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC0E1AE-5F40-4704-9852-A1BC46191B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC0E1AE-5F40-4704-9852-A1BC46191B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC0E1AE-5F40-4704-9852-A1BC46191B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA71975C-5E6C-4085-8BE8-ACA8BC71E57B}
+	EndGlobalSection
+EndGlobal
